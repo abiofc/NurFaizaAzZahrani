@@ -1,9 +1,4 @@
  Hi there 👋
-Jangan lupa masuk GC ku
-https://chat.whatsapp.com/D6dJhw6dnVl0YbW5Qewltc
-
-<!--
-**NurFaizaAzZahrani/NurFaizaAzZahrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,11 +10,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 😜 hii my name is Zahra
+- 😜 hii my name is AbiXynz
 -->🐣 my favorite lesson is ipa
-my name is Zahra
+my name is AbiXynz
 
-# NurFaizaAzZahrani&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30px">
+# AbiXynz&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30px">
 
 <img align="right" alt="My Profile" src="https://telegra.ph/file/526afb7ea6bfe72c36fe8.jpg" width="190" />
 
@@ -27,7 +22,7 @@ my name is Zahra
 
 <p>
   <em>
-    rajin lah belajar dan berdoa👩‍💻 supaya cita cita tercapai <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> cita cita ku ingin menjadi dokter dan mendapatkan gelar profesor🏆 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+    rajin lah belajar dan berdoa👩‍💻 supaya cita cita tercapai <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> cita cita ku ingin menjadi Beban dan mendapatkan gelar profesor🏆 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   </em>  
 </p>
 
@@ -40,11 +35,11 @@ my name is Zahra
 <br>
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=NurFaizaAzZahrani&show_icons=true&hide_border=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=Abiofc&show_icons=true&hide_border=true)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurFaizaAzZahrani&theme=light&hide=css,html))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abiofc&theme=light&hide=css,html))
 
 <br>
 
@@ -56,13 +51,13 @@ my name is Zahra
 
 
 
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/Zahra_210728/) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/NurFaizaAzZahrani)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/abityru24) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/abiofc)
 
 <br>
 <br>
 
 <!--
-  <a href="https://www.instagram.com/Zahra_210728/">
+  <a href="https://www.instagram.com/abityru24/">
     <img align="left" alt="My  | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
